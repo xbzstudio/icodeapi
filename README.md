@@ -1,4 +1,4 @@
-## icodeapi, the The second generation of IcodeYoudao API framework.
+## icodeapi, the second generation of IcodeYoudao API framework.
 
 **More powerful and Faster than [TuringAPI](https://xbz-studio.gitbook.io/turingapi) and TuringIO.**
 
